@@ -1,4 +1,4 @@
-# VKSchmitz
+# VKSchmitz 
 
 **Data Literacy & AI Enablement | Data Governance | Analytics Engineering | AI Engineering**
 
